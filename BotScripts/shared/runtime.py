@@ -1,0 +1,3 @@
+from BotScripts.shared.conversation_governor import ConversationGovernor
+
+conversation_governor = ConversationGovernor()
